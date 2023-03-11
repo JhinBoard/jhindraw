@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./public/logo.svg" width=100 alt="logo" />
+    <img src="https://raw.githubusercontent.com/JhinBoard/jhindraw/main/public/logo.svg" width=100 alt="logo" />
     <br />
     <small>An open source virtual hand-drawn style whiteboard</small>
 </div>
@@ -8,7 +8,7 @@
 
 An open source virtual hand-drawn style whiteboard. Collaborative and end-to-end encrypted.
 
-![overview](./public/screenshots/overview.png)
+![overview](https://raw.githubusercontent.com/JhinBoard/jhindraw/main/public/screenshots/overview.png)
 
 ## Features
 

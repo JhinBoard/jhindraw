@@ -13,7 +13,7 @@ export const isChrome = navigator.userAgent.indexOf("Chrome") !== -1;
 export const isSafari =
   !isChrome && navigator.userAgent.indexOf("Safari") !== -1;
 
-export const APP_NAME = "Excalidraw";
+export const APP_NAME = "Jhindraw";
 
 export const DRAGGING_THRESHOLD = 10; // px
 export const LINE_CONFIRM_THRESHOLD = 8; // px
