@@ -10,6 +10,8 @@ An open source virtual hand-drawn style whiteboard. Collaborative and end-to-end
 
 ![overview](https://raw.githubusercontent.com/JhinBoard/jhindraw/main/public/screenshots/overview.png)
 
+Try our ready-made [templates](https://ciusji.gitbook.io/jhinboard/templates/jhindraw-template) to help your team collaborate more quickly and efficiently.
+
 ## Features
 
 The Excalidraw editor (npm package) supports:
